@@ -3,7 +3,7 @@ Tired of trying to monitor the stock or crypto markets manually? Here is a proje
 to automate this process.
 
 I've used : 
-- Python and BeautifulSoup to scrape finance news from the Moneycontrol Newsfeed via Google News
+- Python and BeautifulSoup to scrape finance news from the Moneycontrol Newsfeed via Google News.
 - Deep Learning using a fine-tuned Hugging Face Pegasus Transformers model to automatically summarise the finance news and,
 - Finally calculated sentiment related to each asset using a pre-trained Transformers deep learning pipeline.
 
